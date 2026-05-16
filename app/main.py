@@ -21,7 +21,7 @@ sorted_variables = {
         my_favourite_films,
         marks,
         collection_of_coins,
-   ],
+    ],
     "immutable": [
         lucky_number,
         pi,
